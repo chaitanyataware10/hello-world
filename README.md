@@ -1,2 +1,2 @@
 # hello-world
-new
+Hi friends!
